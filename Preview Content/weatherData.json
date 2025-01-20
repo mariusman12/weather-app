@@ -1,0 +1,2 @@
+
+{"coord":{"lon":23.9474,"lat":46.2},"weather":[{"id":800,"main":"Clear","description":"clear sky","icon":"01d"}],"base":"stations","main":{"temp":275.68,"feels_like":274.21,"temp_min":275.68,"temp_max":275.68,"pressure":1030,"humidity":68,"sea_level":1030,"grnd_level":989},"visibility":10000,"wind":{"speed":1.55,"deg":43,"gust":1.63},"clouds":{"all":6},"dt":1737291259,"sys":{"country":"RO","sunrise":1737266402,"sunset":1737299367},"timezone":7200,"id":667074,"name":"Sâncel","cod":200}
